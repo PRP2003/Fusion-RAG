@@ -39,7 +39,7 @@ A Streamlit-based Retrieval-Augmented Generation (RAG) app that uses **hybrid se
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/fusion-rag-hybrid.git](https://github.com/PRP2003/Fusion-RAG.git)
+git clone https://github.com/PRP2003/Fusion-RAG.git
 cd Fusion-RAG
 ```
 ### 2. Create and Activate a Virtual Environment
